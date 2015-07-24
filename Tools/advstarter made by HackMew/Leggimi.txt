@@ -1,0 +1,69 @@
+                                         ÜÜÜÜÜÜÜ
+          /ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ²ÛÛÛÛÛÛÛ²ÛÛÛÛÛ²ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ\
+ +------------------------------------------------------------------------------------------+
+ |     @@8      @@@@@@@@@@    @@      ;@@      @@@       @@i      @@  @@@@@@@@@@  @@@@@@@@@ |
+ |   X@@7@@     @@       @@    @@     @@      @@ @@      @@@@@    @@  @@      @@  @@        |
+ |  X@@  @@@    @@       @@     @@  @@a      @@2  @@     @8 Z@@@  @@  @@          @@@@@@@   |
+ | a@@    @@@   @@       @@      @@@@r      @@     @@    @@   X@@@@@  @@      @@  @@        |
+ |@@@@@@Z  @@@  @@@@@@@@@@        @@r      @@@@@@   @@   @@     r@@@  @@@@@@@@@@  @@@@@@@@@ |                                                                              
+ |                                                                                          |
+ |   .@@@@@@@@@  @@@@@@@@@@@     @@@       @@@@@@@@@.  @@@@@@@@@@@  @@@@@@@@@  @@@@@@@@@.   |  
+ |   @@              @@@        @@@@@      @@      @@      @@@      @@         @@      @@   |  
+ |   @@@@@@@@@@      @@@       @@@  @@     @@@@@@@@@       @@@      @@@@@@     @@@@@@@@@    |  
+ |           @@      @@@      @@a    @@    @@   @@         @@@      @@         @@   @@      |  
+ |   @@@@@@@@@.      @@@     @@@@@@   @@   @@     @@       @@@      @@@@@@@@@  @@     @@    |
+ +------------------------------------------------------------------------------------------+   
+          \ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ²ÛÛÛÛÛÛÛ²ÛÛÛÛÛ²ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ/
+                                          ÜÜÜÜÜÜÜ
+
+			Advance Starter (aka A-Starter) v1.2.75
+
+		    Copyrigth 2006 Andrea Sartori aka Mew2 aka HackMew
+
+
+ ===========================================================================================
+					-DESCRIZIONE-
+ ===========================================================================================
+
+		Programma per cambiare gli Starter in una ROM Pokémon.
+
+ ===========================================================================================
+				       -ROM SUPPORTATE-
+ ===========================================================================================
+		
+		+ Rubino (Giapponese, Inglese, Italiano, Spagnolo, Francese, Tedesco)
+		+ Zaffiro (Giapponese, Inglese, Italiano, Spagnolo, Francese, Tedesco)
+		+ Smeraldo (Giapponese, Inglese, Italiano, Spagnolo, Francese, Tedesco)
+		+ Rosso Fuoco (Giapponese, Inglese, Italiano, Spagnolo, Francese, Tedesco)
+		+ Verde foglia (Giapponese, Inglese, Italiano, Spagnolo, Francese, Tedesco)
+
+ ===========================================================================================
+					 -REVISION-
+ ===========================================================================================
+
+ v1.2.00 - Prima versione.
+ v1.2.07 - Inizio ottimizzazione GUI a riduzione del codice.
+ v1.2.12 - Aggiunto un apposito controllo ROM.
+ v1.2.15 - Aggiunto un controllo .ini.
+ v1.2.30 - Aggiornato la finestra "Informazioni su"
+ v1.2.40 - Ridotto ancora il codice. Ora il programma dovrebbe essere più veloce.
+ v1.2.55 - Apportate piccole modifiche al codice.
+ v1.2.60 - Aggiunte le String Table.
+ v1.2.65 - Aggiunta l'opzione di aggiornamento online.
+ v1.2.69 - Ottimizzato la funzione di update.
+ v1.2.75 - Revisione generale dell'intero codice.
+ v1.2.79 - Ulteriore ottimizzazione del codice.
+
+ ===========================================================================================
+				       -ISTRUZIONI-
+ ===========================================================================================
+
+ 1) Apri la ROM che vuoi modificare.
+ 2) Vedrai la lista dei Pokémon tuoi e del tuo rivale.
+ 3) Scegli quelli di tuo gradimento dalle liste e salva quando hai finito.
+ 4) Non c'è un quarto passaggio! Hai già finito! XD
+
+ NOTA [solo per RZS!] - puoi cambiare l'opzione Maschio -> Femmina per modificare
+			gli starter di entrambi i tuoi rivali.
+ 					
+ Enjoy ;)
